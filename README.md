@@ -14,7 +14,7 @@ To play the game on your local machine, follow these steps:
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/catch-the-turtle.git
+    git clone https://github.com/myagiza/catch-the-turtle.git
     ```
 
 3. Navigate to the project directory:
